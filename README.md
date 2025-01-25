@@ -33,7 +33,9 @@ My name is Jonas and I have been the resident tech nerd at home and at work for 
 I never had the opportunity or the need to publish or showoff any of my weird experimentation and learning onto the Internet before for three main reasons:
 
  **1.** I have never needed to create any support documentation.
+ 
  **2.** This hobby of mine only became serious recently due to layoffs everywhere.
+ 
  **3.** Testing, making, and breaking things is embarrassing sometimes.
 
 I slowly realized after 3 years in sales and one CompTIA A+ certification later ***(finally)*** that most professionals in my field **rightly** told me that practical skills are more valued than cert-chasing. I personally felt that ten years of informal experience troubleshooting PC's, tinkering with software, and taking them apart shouldn't be for nothing.
